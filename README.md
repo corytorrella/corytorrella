@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corytorrella
-- I’m currently studying algorithms and data structures full-time, completing a statistics specialization with Duke University, and continuing to improve Python, R, SQL, and more.
+- I’m currently studying algorithms and data structures full-time, having recently completed a statistics specialization with Duke University, and continuing to improve Python, R, SQL, and more.
 - I’m interested in collaborating with data engineers and data science projects.
 - I'm easily reached at cory.torrella@gmail.com
 
