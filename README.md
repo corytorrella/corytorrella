@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corytorrella
-- I’m currently studying algorithms and data structures full-time, having recently completed a statistics specialization with Duke University, and continuing to improve Python, R, SQL, and more.
-- I’m interested in collaborating with data engineers and data science projects.
-- I'm easily reached at cory.torrella@gmail.com
+- Half wordcel half shape rotator.
+- I’m interested in collaborating with ML, data science, and/or distributed ledger projects.
+- I'm easily reached at cory dot torrella at gmail dot com
 
 <!---
 corytorrella/corytorrella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
